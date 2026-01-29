@@ -1,0 +1,39 @@
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  background: url(fondos/fondoman.jpeg) center center;
+  background-size: cover;
+}
+
+
+.contenedor{
+    text-align: center;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 40px auto;  
+    max-width: 600px;
+    
+    opacity: 0.9;
+}
+.bleach{
+    width: 300px;
+    height: 300px;
+}
+
+.fullmetal{
+    width: 300px;
+    height: 300px;
+}
+
+.drstone{
+    width: 300px;
+    height: 300px;
+}
